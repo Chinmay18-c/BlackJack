@@ -14,7 +14,10 @@ A stylish and interactive Blackjack game built using HTML, CSS, and JavaScript. 
 
 ## 📸 Preview
 
-![Blackjack Screenshot](https://linwoodfabric.com/cdn/shop/products/Omega_III--131_Emerald.jpg?v=1665244039)
+![Blackjack Screenshot](screenshot.png)
+
+
+(https://linwoodfabric.com/cdn/shop/products/Omega_III--131_Emerald.jpg?v=1665244039)
 
 ## 🚀 How to Play
 
